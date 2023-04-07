@@ -1,7 +1,7 @@
 
 '''Introduction'''
 
-In software development, code is the foundation of almost everything. From code that runs on servers and servers itself and the programs that runs on operationg systems and operating systems and whih interns run by CPU that developed with a hardware description and web applications that runs on browsers and browsers iteslef, code is what powers these systems. But where does this code come from? It's written by people, who use their knowledge, expertise, and creativity to develop software that can perform complex tasks and solve real-world problems.
+In software development, code is the foundation of almost everything. From code that runs on servers and servers itself and the programs that runs on operationg systems and operating systems and whih interns run by CPU that developed with a hardware description language and web applications that runs on browsers and browsers iteslef, code is what powers these systems. But where does this code come from? It's written by people, who use their knowledge, expertise, and creativity to develop software that can perform complex tasks and solve real-world problems.
 
 The process of developing software requires a great deal of communication and collaboration among team members. Ideas are shared, debated, and refined through discussions, meetings, and other forms of communication. As these ideas take shape, they are translated into code that can be executed by machines.
 
