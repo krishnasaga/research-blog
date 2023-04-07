@@ -10,6 +10,6 @@ In both cases, there is a central dogma that guides the process. In DNA protein 
 
 ''' Epigeneitcs ''' 
 
-Here my view view highlights the important role that management plays in the health and technological progress of an organization. The middle level and top level management are responsible for defining the goals, strategies, and priorities of the organization, and for allocating resources and delegating tasks to individual engineers and teams. The management can influence the overall health of an organization by promoting a culture of collaboration, feedback, and continuous improvement. By fostering an environment where engineers feel comfortable sharing their ideas, learning from mistakes, and challenging assumptions, the management can help to create a more innovative, responsive, and resilient organization.
+Here my view highlights the important role that management plays in the health and technological progress of an organization. The management is responsible for defining the goals, strategies, and priorities of the organization, and for allocating resources and delegating tasks to individual engineers and teams. The management can influence the overall health of an organization by promoting a culture of collaboration, feedback, and continuous improvement. By fostering an environment where engineers feel comfortable sharing their ideas, learning from mistakes, and challenging assumptions, the management can help to create a more innovative, responsive, and resilient organization.
 
 
