@@ -7,3 +7,14 @@ The process of developing software requires a great deal of communication and co
 
 In this sense, the central dogma of software development is the communication of ideas and thoughts among team members. Just as DNA serves as the blueprint for the production of proteins in cells, the ideas and communication between software developers serve as the blueprint for the development of software systems. The success of these systems depends on the ability of developers to work together effectively, to communicate their ideas clearly and to write high-quality code that meets the needs of the end-users.
 In both cases, there is a central dogma that guides the process. In DNA protein synthesis, the central dogma is the flow of genetic information from DNA to RNA to proteins. Similarly, in software development, the central dogma is the flow of ideas from people to code to the final software product.
+
+''' Epigeneitcs ''' 
+
+Your view highlights the important role that management plays in the health and technological progress of an organization. The middle level and top level management are responsible for defining the goals, strategies, and priorities of the organization, and for allocating resources and delegating tasks to individual engineers and teams.
+
+In this context, the management's decisions can influence which skills of an engineer are activated and which ones are not. For example, if the management prioritizes speed of development over code quality, engineers may focus on writing code quickly rather than taking the time to ensure that it is robust and scalable. On the other hand, if the management prioritizes innovation and long-term stability, engineers may be encouraged to spend more time on research and development, testing, and documentation.
+
+Moreover, the management can influence the overall health of an organization by promoting a culture of collaboration, feedback, and continuous improvement. By fostering an environment where engineers feel comfortable sharing their ideas, learning from mistakes, and challenging assumptions, the management can help to create a more innovative, responsive, and resilient organization.
+
+Overall, the management's decisions and priorities have a significant impact on the skills and mindset of individual engineers and teams, and ultimately on the technological progress and health of the organization as a whole.
+
